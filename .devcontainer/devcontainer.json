@@ -1,0 +1,5 @@
+{
+  "name": "Heartlines",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": { "ghcr.io/devcontainers-extra/features/theos:1": {} }
+}
